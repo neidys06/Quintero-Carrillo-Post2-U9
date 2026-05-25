@@ -27,6 +27,7 @@
 ; Ejecutar: MASK_KB  (dentro de DOSBox, directorio C:\U9P2\)
 ; =============================================================================
 
+
 [BITS 16]           ; Modo real de 16 bits
 [ORG 0x100]         ; Programa .COM
 
