@@ -65,7 +65,7 @@ programa." y termina correctamente.
 
 **Checkpoint 1 verificado:**
 
-![Checkpoint 1 - ISR_KB funcionando](capturas/checkpoint1.png)
+![Checkpoint 1 - ISR_KB funcionando](capturas/Checkpoint1.png)
 
 ---
 
@@ -92,7 +92,7 @@ y durante ~3 segundos las teclas no producen salida. Al finalizar muestra
 
 **Checkpoint 2 verificado:**
 
-![Checkpoint 2 - MASK_KB con IRQ1 enmascarado](capturas/checkpoint2.png)
+![Checkpoint 2 - MASK_KB con IRQ1 enmascarado](capturas/Checkpoint2.png)
 
 ---
 
@@ -126,7 +126,7 @@ ISR restaurado." y termina.
 
 **Checkpoint 3 verificado:**
 
-![Checkpoint 3 - CHAIN con encadenamiento funcionando](capturas/checkpoint3.png)
+![Checkpoint 3 - CHAIN con encadenamiento funcionando](capturas/Checkpoint3.png)
 
 ---
 
