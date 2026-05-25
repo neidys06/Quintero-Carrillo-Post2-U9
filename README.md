@@ -16,8 +16,7 @@ hardware en DOSBox.
 | Requisito             | Detalle                                                        |
 |-----------------------|----------------------------------------------------------------|
 | Software              | DOSBox 0.74-3 con NASM 2.x accesible desde el prompt de DOS   |
-| Conocimientos previos | Tabla de vectores de interrupción (IVT), INT 21h AH=25h/35h   |
-|                       | para instalar/obtener handlers, flag IF, PIC 8259A             |             |
+| Conocimientos previos | Tabla de vectores de interrupción (IVT), INT 21h AH=25h/35h para instalar/obtener handlers, flag IF, PIC 8259A             |             |
 | Directorio de trabajo | C:\QuinteroCarrillo-post2-u9\ dentro de DOSBox                 |
 
 ---
